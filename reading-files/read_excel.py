@@ -7,8 +7,8 @@ def is_number(s):
         return True
     except ValueError:
         return False
-
-loc = ('test.xlsx')
+os.getcwd()
+loc = ('new_directory/.xlsx')
 
 wb = xlrd.open_workbook(loc)
 sheet = wb.sheet_by_index(0) 
