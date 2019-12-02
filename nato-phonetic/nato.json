@@ -1,4 +1,4 @@
-lexicon = {
+{
   "A": "Alfa",
   "B": "Bravo",
   "C": "Charlie",
@@ -26,9 +26,3 @@ lexicon = {
   "Y": "Yankee",
   "Z": "Zulu"
 }
-
-word = "Dimitris"
-print ("The word you typed is: \t")
-for letter in word:
-    if letter.upper() in lexicon.keys():
-        print (lexicon[letter.upper()])
