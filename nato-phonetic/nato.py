@@ -27,7 +27,7 @@ lexicon = {
   "Z": "Zulu"
 }
 
-word = "Dimitris"
+word = "Mozambique"
 print ("The word you typed is: \t")
 for letter in word:
     if letter.upper() in lexicon.keys():
