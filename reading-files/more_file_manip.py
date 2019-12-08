@@ -61,22 +61,17 @@ dict = {
 
 def letter_to_number(filename):
     st = ""
-    print (filename, st)
     for i in range(0, len(filename)):
         #checks if filename digit is letter
         if filename[i] in dict.keys():
             st += str(dict[filename[i]])
-            print (st)
         elif filename[i] == "_":
         #checks if filename digit is _
             st += "_"
-            print (st)
         elif filename[i]=='.':
         #checks if we have reached the extension part of the filename
             a = len(filename) - i
-            print (a)
             st += filename[-a:]
-            return st
         else:
         #checks if filename digit is number
             st += filename[i]
