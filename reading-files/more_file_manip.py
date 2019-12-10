@@ -89,5 +89,6 @@ def return_last_image_number():
                 os.rename(item.name, letter_to_number(item.name))
     except OSError as e:
         print ("Raised an OSError with message: ", e)
-    
+    except TypeError as t:
+        print ("Raised TypError with message: ", t)
 return_last_image_number()
