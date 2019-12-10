@@ -78,9 +78,16 @@ def letter_to_number(filename):
             st += filename[i]
     return st
 
-def return_last_image_number(path):
-    os.chdir(path)
-    for item in os.listdir('.'):
-        print (item)
-        
-return_last_image_number("/images")
+def return_last_image_number():
+    #get a DirEntry list with all sub-directories of root
+    try:
+        lst = [dirs for dirs in os.scandir('.') if dirs.is_dir()]
+        #go to images directory
+        os.chdir(lst[1].name)
+        for item in os.scandir('.'):
+            if item.is_file():
+                os.rename(item.name, letter_to_number(item.name))
+    except OSError as e:
+        print ("Raised an OSError with message: ", e)
+    
+return_last_image_number()
