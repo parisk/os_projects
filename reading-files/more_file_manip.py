@@ -2,8 +2,6 @@ import os;
 import shutil;
 import fnmatch;
 
-os.getcwd()
-
 # for (root, directories, files) in os.walk('.'):
 #     if fnmatch.fnmatch(root, './image*'):
 #         print ("The folder" + root + " contains images \t")
@@ -58,6 +56,10 @@ dicti = {
     "y":25,
     "z":26
 }
+
+#Go through subdir in file structure, find files with {_letter} ending - files have name format {SKU_ending.extension}, and rename them 
+#Renaming must RETAIN same file extension and change only the {_letter} ending of the file name, this is what dictates image position in image carousel
+#Any inbetween {_letter} patterns that are part of the Product SKU must remain unchanged
 
 def letter_to_number(filename):
     st = ""
