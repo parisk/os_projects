@@ -5,7 +5,7 @@ import fnmatch;
 """
 Go through subdir in file structure, find files with {_letter} ending - files have name format {SKU_ending.extension}, and rename them
 
-Renaming must RETAIN same file extension and change only the {_letter} ending of the file name, this is what dictates image position in image carousel
+Renaming must RETAIN same file extension and replace only the {_letter} ending of the file name with a {_number}, this is what dictates image position in image carousel, such as the current alphabetic order remains the same in numeric format (sku_a & sku_b will be sku_1 and sku_2)
 
 Any inbetween {_letter} patterns that are part of the Product SKU must remain unchanged
 """
