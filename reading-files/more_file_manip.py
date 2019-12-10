@@ -30,7 +30,7 @@ os.getcwd()
 #         print ("\t" * d + fi)
 #         d+=1
         
-dict = {
+dicti = {
     "a":1,
     "b":2,
     "c":3,
@@ -63,8 +63,8 @@ def letter_to_number(filename):
     st = ""
     for i in range(0, len(filename)):
         #checks if filename digit is letter
-        if filename[i] in dict.keys():
-            st += str(dict[filename[i]])
+        if filename[i] in dicti.keys():
+            st += str(dicti[filename[i]])
         elif filename[i] == "_":
         #checks if filename digit is _
             st += "_"
@@ -72,7 +72,15 @@ def letter_to_number(filename):
         #checks if we have reached the extension part of the filename
             a = len(filename) - i
             st += filename[-a:]
+            break
         else:
         #checks if filename digit is number
             st += filename[i]
     return st
+
+def return_last_image_number(path):
+    os.chdir(path)
+    for item in os.listdir('.'):
+        print (item)
+        
+return_last_image_number("/images")
