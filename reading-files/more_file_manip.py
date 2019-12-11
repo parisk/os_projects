@@ -68,23 +68,23 @@ dicti = {
 
 
 def letter_to_number(filename):
-    st = ""
+    new_name = ""
     for i in range(0, len(filename)):
         #checks if filename digit is letter
         if filename[i] in dicti.keys():
-            st += str(dicti[filename[i]])
+            new_name += str(dicti[filename[i]])
         elif filename[i] == "_":
         #checks if filename digit is _
-            st += "_"
+            new_name += "_"
         elif filename[i]=='.':
         #checks if we have reached the extension part of the filename
             a = len(filename) - i
-            st += filename[-a:]
+            new_name += filename[-a:]
             break
         else:
         #checks if filename digit is number
-            st += filename[i]
-    return st
+            new_name += filename[i]
+    return new_name
 
 def find_dir_and_rename():
     #get a DirEntry list with all sub-directories of root
