@@ -6,7 +6,8 @@ import fnmatch;
 Go through subdir in file structure, find files with {_letter} ending - files have name format {SKU_ending.extension}, and rename them
 
 Renaming must RETAIN same file extension and replace only the {_letter} ending of the file name with a {_number} (this is what dictates image position in image carousel)
-The current alphabetic order must remain the same in numeric format (sku_a & sku_b will be sku_1 and sku_2)
+
+The current alphabetical order must remain the same in numeric format (sku_a & sku_b will be sku_1 and sku_2)
 
 Any inbetween {_letter} patterns that are part of the Product SKU must remain unchanged
 """
@@ -85,7 +86,7 @@ def letter_to_number(filename):
             st += filename[i]
     return st
 
-def return_last_image_number():
+def find_dir_and_rename():
     #get a DirEntry list with all sub-directories of root
     try:
         lst = [dirs for dirs in os.scandir('.') if dirs.is_dir()]
@@ -98,4 +99,5 @@ def return_last_image_number():
         print ("Raised an OSError with message: ", e)
     except TypeError as t:
         print ("Raised TypError with message: ", t)
-return_last_image_number()
+
+find_dir_and_rename()
