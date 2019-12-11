@@ -82,7 +82,7 @@ def letter_to_number(filename):
             new_name += filename[-a:]
             break
         else:
-        #checks if filename digit is number
+        #checks if filename element is anything else
             new_name += filename[i]
     return new_name
 
@@ -100,4 +100,3 @@ def find_dir_and_rename():
     except TypeError as t:
         print ("Raised TypError with message: ", t)
 
-find_dir_and_rename()
