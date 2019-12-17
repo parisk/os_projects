@@ -17,11 +17,10 @@ def pure_order(filename, ret = False):
     try:
         result = SkuNumRegex.search(filename)
         print ("Number that corresponds to carousel order is: " + result.group(2))
-        if ret:
-            return (result.group(2))
     except AttributeError as e:
         print (e, filename)
-
+    if ret:
+            return (result.group(2))
 def pure_extension(filename):
     try:
         result = SkuNumRegex.search(filename)
