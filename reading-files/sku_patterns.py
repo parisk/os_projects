@@ -8,7 +8,7 @@ def pure_sku(filename):
     SkuNumRegex = re.compile(r'(.*)_([0-9]{1,3}|[a-z]*).(jpg|jpeg|JPG|png|tif|psd)') #means SKU comes in form of 6 to 9 decimals, followed by a _ followed by 1 to 3 decimals - showing order - followed by image file extension
     try:
         result = SkuNumRegex.search(filename)
-        sku = result.group(3)
+        sku = result.group(1)
         print ("SKU that corresponds to filename is: " + result.group(1))
         return sku
     except AttributeError as e:
@@ -19,7 +19,7 @@ def pure_order(filename, ret = False):
     SkuNumRegex = re.compile(r'(.*)_([0-9]{1,3}|[a-z]*).(jpg|jpeg|JPG|png|tif|psd)') #means SKU comes in form of 6 to 9 decimals, followed by a _ followed by 1 to 3 decimals - showing order - followed by image file extension
     try:
         result = SkuNumRegex.search(filename)
-        order = result.group(3)
+        order = result.group(2)
         print ("Number that corresponds to carousel order is: " + result.group(2))
         return order
     except AttributeError as e:
@@ -36,7 +36,7 @@ def pure_extension(filename):
         print (e, filename)
         
 #main execution
-if __name__ = "__main__":
+if __name__ == "__main__":
     for (root,directories,files) in os.walk('.'):
         if "images" in root:
             for f in files:
