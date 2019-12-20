@@ -18,7 +18,7 @@ for image in image_list:
     sku = pure_sku(image)
     order = int(pure_order(image)) +1
     extension = pure_extension(image)
-    new_name = sku + "_" + str(order) + extension
+    new_name = sku + "_" + str(order) + "." + extension
     if width >500 or height>500:
         try:
             print ("Now resizing file: " + image +"...")
@@ -27,4 +27,4 @@ for image in image_list:
         except OSError as e:
             print ("Error occuren at image :" + image , e)
         finally:
-            
+            print ("*" * 10)
