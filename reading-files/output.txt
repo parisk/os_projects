@@ -1,0 +1,56 @@
+----------
+File is: 401629_1.jpg
+SKU that corresponds to filename is: 401629
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+----------
+File is: 401377_1.jpg
+SKU that corresponds to filename is: 401377
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+----------
+File is: 144441_8.png
+SKU that corresponds to filename is: 144441
+Number that corresponds to carousel order is: 8
+Extension that corresponds to image type is: png
+----------
+File is: 401376_2.jpg
+SKU that corresponds to filename is: 401376
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+----------
+File is: 401626_3.jpg
+SKU that corresponds to filename is: 401626
+Number that corresponds to carousel order is: 3
+Extension that corresponds to image type is: jpg
+----------
+File is: 401047C_3.jpg
+SKU that corresponds to filename is: 401047C
+Number that corresponds to carousel order is: 3
+Extension that corresponds to image type is: jpg
+----------
+File is: 300982_22.png
+SKU that corresponds to filename is: 300982
+Number that corresponds to carousel order is: 22
+Extension that corresponds to image type is: png
+----------
+File is: 211334_9.png
+SKU that corresponds to filename is: 211334
+Number that corresponds to carousel order is: 9
+Extension that corresponds to image type is: png
+----------
+File is: 401375_2.jpg
+SKU that corresponds to filename is: 401375
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+----------
+File is: polaroid.png
+'NoneType' object has no attribute 'group' polaroid.png
+'NoneType' object has no attribute 'group' polaroid.png
+'NoneType' object has no attribute 'group' polaroid.png
+----------
+File is: polaroid_stranger_2.jpg
+SKU that corresponds to filename is: polaroid_stranger
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+---Walking through directory over---
