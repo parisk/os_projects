@@ -25,10 +25,10 @@ for image in image_list:
     #create new_name
     new_name = sku + "_" + str(order) + "." + extension
     
-    if width >500 or height>500:
+    if width >200 or height>500:
         try:
             print ("Now resizing file: " + image +"...")
-            cover = resizeimage.resize_contain(img, [300,300])
+            cover = resizeimage.resize_contain(img, [200,300])
             cover.save(new_name, img.format)
         except OSError as e:
             print ("Error occured resizing image :" + image , e)
