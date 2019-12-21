@@ -1,56 +1,59 @@
-----------
-File is: 401629_1.jpg
+['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11390483_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11391015_c.jpg', '11391015_2.jpg']
 SKU that corresponds to filename is: 401629
 Number that corresponds to carousel order is: 1
 Extension that corresponds to image type is: jpg
-----------
-File is: 401377_1.jpg
+Image 401629_1.jpg has dimensions  (223, 677)
+----Image does not exceed 1000px in any dimension----
 SKU that corresponds to filename is: 401377
 Number that corresponds to carousel order is: 1
 Extension that corresponds to image type is: jpg
-----------
-File is: 144441_8.png
-SKU that corresponds to filename is: 144441
-Number that corresponds to carousel order is: 8
-Extension that corresponds to image type is: png
-----------
-File is: 401376_2.jpg
-SKU that corresponds to filename is: 401376
+Image 401377_1.jpg has dimensions  (613, 729)
+----Image does not exceed 1000px in any dimension----
+SKU that corresponds to filename is: 11391016
 Number that corresponds to carousel order is: 2
 Extension that corresponds to image type is: jpg
-----------
-File is: 401626_3.jpg
-SKU that corresponds to filename is: 401626
+Image 11391016_2.jpg has dimensions  (2362, 2362)
+Now resizing file: 11391016_2.jpg...
+Error occured resizing image :11391016_2.jpg cannot write mode RGBA as JPEG
+**********
+SKU that corresponds to filename is: 11390483
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
+SKU that corresponds to filename is: 401629
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+Image 401629_1.jpg has dimensions  (223, 677)
+----Image does not exceed 1000px in any dimension----
+SKU that corresponds to filename is: 401377
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+Image 401377_1.jpg has dimensions  (613, 729)
+----Image does not exceed 1000px in any dimension----
+SKU that corresponds to filename is: 11391016
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+Image 11391016_2.jpg has dimensions  (2362, 2362)
+Now resizing file: 11391016_2.jpg...
+**********
+['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
+SKU that corresponds to filename is: 401629
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+Image 401629_1.jpg has dimensions  (223, 677)
+----Image does not exceed 1000px in any dimension----
+SKU that corresponds to filename is: 401377
+Number that corresponds to carousel order is: 1
+Extension that corresponds to image type is: jpg
+Image 401377_1.jpg has dimensions  (613, 729)
+----Image does not exceed 1000px in any dimension----
+SKU that corresponds to filename is: 11391016
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+Image 11391016_2.jpg has dimensions  (2362, 2362)
+Now resizing file: 11391016_2.jpg...
+Error occured resizing image :11391016_2.jpg cannot write mode RGBA as JPEG
+**********
+SKU that corresponds to filename is: 11391016
 Number that corresponds to carousel order is: 3
 Extension that corresponds to image type is: jpg
-----------
-File is: 401047C_3.jpg
-SKU that corresponds to filename is: 401047C
-Number that corresponds to carousel order is: 3
-Extension that corresponds to image type is: jpg
-----------
-File is: 300982_22.png
-SKU that corresponds to filename is: 300982
-Number that corresponds to carousel order is: 22
-Extension that corresponds to image type is: png
-----------
-File is: 211334_9.png
-SKU that corresponds to filename is: 211334
-Number that corresponds to carousel order is: 9
-Extension that corresponds to image type is: png
-----------
-File is: 401375_2.jpg
-SKU that corresponds to filename is: 401375
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-----------
-File is: polaroid.png
-'NoneType' object has no attribute 'group' polaroid.png
-'NoneType' object has no attribute 'group' polaroid.png
-'NoneType' object has no attribute 'group' polaroid.png
-----------
-File is: polaroid_stranger_2.jpg
-SKU that corresponds to filename is: polaroid_stranger
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
----Walking through directory over---
