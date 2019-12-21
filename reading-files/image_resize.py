@@ -39,8 +39,8 @@ for image in image_list:
             if width >1000 or height>1000:
                 try:
                     print ("Now resizing file: " + image +"...")
-                    cover = resizeimage.resize_contain(img, [1000,1000])
-                    cover.save(new_name, img.format)
+                    cover = resizeimage.resize_cover(img, [1000,1000])
+                    cover.save(new_name)
                 except OSError as e:
                     print ("Error occured resizing image :" + image , e)
                 finally:
