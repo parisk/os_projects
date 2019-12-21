@@ -1,151 +1,3 @@
-['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11390483_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11391015_c.jpg', '11391015_2.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-Image 11391016_2.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391016_2.jpg...
-Error occured resizing image :11391016_2.jpg cannot write mode RGBA as JPEG
-**********
-SKU that corresponds to filename is: 11390483
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-Image 11391016_2.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391016_2.jpg...
-**********
-['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-Image 11391016_2.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391016_2.jpg...
-Error occured resizing image :11391016_2.jpg cannot write mode RGBA as JPEG
-**********
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 3
-Extension that corresponds to image type is: jpg
-['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-Image 11391016_2.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391016_2.jpg...
-**********
-['401629_1.jpg', '401377_1.jpg', '11391016_2.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11390483_2.png', '11391015_c.jpg', '11391015_2.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 2
-Extension that corresponds to image type is: jpg
-Image 11391016_2.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391016_2.jpg...
-Error occured resizing image :11391016_2.jpg cannot write mode RGBA as JPEG
-**********
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 3
-Extension that corresponds to image type is: jpg
-['401629_1.jpg', '401377_1.jpg', '11391016_3.jpg', '11390565_a.jpg', '11390483_b.jpg', '401626_3.jpg', '11391015_c.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391016
-Number that corresponds to carousel order is: 3
-Extension that corresponds to image type is: jpg
-['401629_1.jpg', '401377_1.jpg', '11390565_a.jpg', '11390483_b.jpg', '401626_3.jpg', '11391015_c.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11390565
-Number that corresponds to carousel order is: a
-Extension that corresponds to image type is: jpg
-Image 11390565_a.jpg has dimensions  (2362, 2362)
-Now resizing file: 11390565_a.jpg...
-Error occured resizing image :11390565_a.jpg cannot write mode RGBA as JPEG
-**********
-SKU that corresponds to filename is: 11390483
-Number that corresponds to carousel order is: b
-Extension that corresponds to image type is: jpg
-Image 11390483_b.jpg has dimensions  (2362, 2362)
-Now resizing file: 11390483_b.jpg...
-Error occured resizing image :11390483_b.jpg cannot write mode RGBA as JPEG
-**********
-SKU that corresponds to filename is: 401626
-Number that corresponds to carousel order is: 3
-Extension that corresponds to image type is: jpg
-Image 401626_3.jpg has dimensions  (645, 553)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 11391015
-Number that corresponds to carousel order is: c
-Extension that corresponds to image type is: jpg
-Image 11391015_c.jpg has dimensions  (2362, 2362)
-Now resizing file: 11391015_c.jpg...
-Error occured resizing image :11391015_c.jpg cannot write mode RGBA as JPEG
-**********
 ['401629_1.jpg', '401377_1.jpg', '11390483_2.jpg', '11390565_a.jpg', '11390483_b.jpg', '11390565_2.jpg', '401626_3.jpg', '11391015_c.jpg', '11391015_2.jpg']
 SKU that corresponds to filename is: 401629
 Number that corresponds to carousel order is: 1
@@ -160,16 +12,7 @@ Image 401377_1.jpg has dimensions  (613, 729)
 SKU that corresponds to filename is: 11390483
 Number that corresponds to carousel order is: 2
 Extension that corresponds to image type is: jpg
-['401629_1.jpg', '401377_1.jpg', '11390565_a.jpg', '11390483_b.jpg', '401626_3.jpg', '11391015_c.jpg']
-SKU that corresponds to filename is: 401629
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401629_1.jpg has dimensions  (223, 677)
-----Image does not exceed 1000px in any dimension----
-SKU that corresponds to filename is: 401377
-Number that corresponds to carousel order is: 1
-Extension that corresponds to image type is: jpg
-Image 401377_1.jpg has dimensions  (613, 729)
+Image 11390483_2.jpg has dimensions  (1000, 1000)
 ----Image does not exceed 1000px in any dimension----
 SKU that corresponds to filename is: 11390565
 Number that corresponds to carousel order is: a
@@ -183,6 +26,11 @@ Extension that corresponds to image type is: jpg
 Image 11390483_b.jpg has dimensions  (2362, 2362)
 Now resizing file: 11390483_b.jpg...
 **********
+SKU that corresponds to filename is: 11390565
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+Image 11390565_2.jpg has dimensions  (1000, 1000)
+----Image does not exceed 1000px in any dimension----
 SKU that corresponds to filename is: 401626
 Number that corresponds to carousel order is: 3
 Extension that corresponds to image type is: jpg
@@ -194,3 +42,8 @@ Extension that corresponds to image type is: jpg
 Image 11391015_c.jpg has dimensions  (2362, 2362)
 Now resizing file: 11391015_c.jpg...
 **********
+SKU that corresponds to filename is: 11391015
+Number that corresponds to carousel order is: 2
+Extension that corresponds to image type is: jpg
+Image 11391015_2.jpg has dimensions  (1000, 1000)
+----Image does not exceed 1000px in any dimension----
