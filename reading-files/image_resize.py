@@ -15,28 +15,23 @@ print (image_list)
 def determine_order(order):
     #if order is letter, return the number 1, else does nothing 
     if order in dicti.keys():
-        return 1
+        return 0
     else:
         return order
 
 for image in image_list:
-   
-    #call on sku_patterns methods to determine sku,order, and extension
-    #image must be renamed so that it is +1 higher on order
-    sku = pure_sku(image)
+    sku = pure_sku(image) #call on sku_patterns methods to determine sku,order, and extension
     determined_order = determine_order(pure_order(image))
-    order = int(determined_order) +1
+    order = int(determined_order) + 1 #image must be renamed so that it is +1 higher on order
     extension = pure_extension(image)
     
-    #create new_name
-    new_name = sku + "_" + str(order) + "." + extension
+    new_name = sku + "_" + str(order) + "." + extension #create new_name
     with open (image, 'rb') as i:
         with Image.open(i) as img:
             #determine image size
             width, height = img.size
             print ("Image " + image + " has dimensions ", img.size)
-            #image will be resized if it exceeds 1000 in either dimension
-            if width >1000 or height>1000:
+            if width >1000 or height>1000: #image will be resized if it exceeds 1000 in either dimension
                 try:
                     print ("Now resizing file: " + image +"...")
                     cover = resizeimage.resize_cover(img, [1000,1000])

@@ -1,0 +1,16 @@
+['polaroid.png', '11390483_b.jpg', '11391015_c.jpg', 'polaroid_stranger_2.jpg']
+SKU that corresponds to filename is: 401377
+images with same sku that are already stored in server for file: 401377_1.jpg are the following:  []
+SKU that corresponds to filename is: 11390483
+images with same sku that are already stored in server for file: 11390483_2.jpg are the following:  ['11390483_b.jpg']
+SKU that corresponds to filename is: 11390565
+images with same sku that are already stored in server for file: 11390565_a.jpg are the following:  []
+'NoneType' object has no attribute 'group' blurred.jpg
+Image file blurred.jpg does not follow specific pattern fiven. No corresponding stored images returned.
+'NoneType' object has no attribute 'group' embossed.jpg
+Image file embossed.jpg does not follow specific pattern fiven. No corresponding stored images returned.
+SKU that corresponds to filename is: 401626
+images with same sku that are already stored in server for file: 401626_3.jpg are the following:  []
+SKU that corresponds to filename is: 11391015
+images with same sku that are already stored in server for file: 11391015_2.jpg are the following:  ['11391015_c.jpg']
+['401377_1.jpg', '11390483_2.jpg', '11390565_a.jpg', 'blurred.jpg', 'embossed.jpg', '401626_3.jpg', '11391015_2.jpg']
