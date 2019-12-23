@@ -8,7 +8,7 @@ image_lst = [item.name for item in os.scandir(path) if item.is_file()]
 
 stored_images_path = 'images/images_stored'
 
-stored_images = [item.name for item in os.scandir(stored_images_path) if item.is_file()]
+stored_images = [item.name  for item in os.scandir(stored_images_path) if item.is_file()]
 print (stored_images)
 
 for image in image_lst:
