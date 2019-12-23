@@ -1,6 +1,6 @@
-import os;
-import shutil;
-import fnmatch;
+import os
+import shutil
+import fnmatch
 
 """
 Go through subdir in file structure, find files with {_letter} ending - files have name format {SKU_ending.extension}, and rename them
